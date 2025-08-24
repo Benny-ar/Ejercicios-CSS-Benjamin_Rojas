@@ -1,0 +1,15 @@
+#cabecera {
+    padding-bottom: 15px;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#cuerpo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+#pie {
+    padding-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
